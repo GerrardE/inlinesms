@@ -72,7 +72,7 @@ h6 {
 	font-size: 18px;
 }
 .header-style-2 {
-	background: #2980b9;
+	background: #DAA520;
 }
 .banner-video-caption {
 	top: 30px;
@@ -202,7 +202,7 @@ footer .widget {
 }
 .header-style-2 {
 	position: relative;
-	background: #2980b9;
+	background: #DAA520;
 }
 .header-style-2 .nav.navbar-nav {
 	padding: 0px;
@@ -380,7 +380,7 @@ a.more-news, .header-style-1 .navbar-nav>li>a:before, .my-account, ul.search-car
 	display: inline-block;
 }
 header .navbar-toggle {
-	background: #8B0000;
+	background: #DAA520;
 	margin: 20px 0;
 	width: 100%;
 }
@@ -489,7 +489,7 @@ footer .widget {
 }
 .header-style-2 {
 	position: relative;
-	background: #2980b9;
+	background: #DAA520;
 }
 .video-wrap, .header-style-2 .topbar {
 	display: none;
@@ -528,7 +528,7 @@ footer .widget {
 h2 {
 	font-size: 30px;
 }
-.featu#8B0000-courses {
+.featu#DAA520-courses {
 	padding: 40px 0;
 }
 ul.course-tabs-nav li {
@@ -585,7 +585,7 @@ a.ed {
 	display: none;
 }
 .header-style-3 .header-nav {
-	background:#DAA520;
+	background:purple;
 	padding-bottom: 20px;
 }
 .header-style-3 .header-nav .navbar-toggle {
@@ -616,10 +616,10 @@ header .navbar-nav {
 .h3-banner-cap .search-form {
 	display: none;
 }
-.h3-featu#8B0000-courses ul.nav li {
+.h3-featu#DAA520-courses ul.nav li {
 	margin: 0px;
 }
-.h3-featu#8B0000-courses ul.nav li a {
+.h3-featu#DAA520-courses ul.nav li a {
 	padding: 0 10px;
 	font-size: 12px;
 }
@@ -714,7 +714,7 @@ header .navbar-nav {
 	font-weight: 500;
 }
 .details-col blockquote {
-	background:#DAA520;
+	background:purple;
 	border: 0px;
 	border-radius: 5px;
 	padding: 15px;
